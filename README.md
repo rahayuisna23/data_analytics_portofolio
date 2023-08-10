@@ -1,13 +1,11 @@
-# Rahayuisna23 - Data Analytics Portfolio 
+# Data Analytics Portfolio 
 
 ## About
 
 Hi, I'm Isna! A recent graduate with degree in statistics. Througout my academic journey, I develop a strong passion for data analytics and its applications in several domains. During my time as a statistics student, I embarked on an exciting journey exploring the depths of data analytics. I was introduced to a wide array of statistical concepts and data analytics technique that laid the foundation for my analytical skills.
-
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
-  
 
 ## Table of contents
 - [About](#about)
@@ -16,7 +14,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
