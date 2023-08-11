@@ -21,7 +21,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Cluster Analysis of East Asian Tourism Destination Reviews on TripAdvisor
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`Cluster_Analysis_of_East_Asian_Tourism_Destination_Reviews_on_TripAdvisor.ipynb`]([https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb](https://github.com/rahayuisna23/data_analytics_portofolio/blob/60f40af89815bb2c74557d718bdea7caeb8ce16b/Cluster_Analysis_of_East_Asian_Tourism_Destination_Reviews_on_TripAdvisor.ipynb))    
 **Description:** Data sourced from TripAdvisor.com contains reviews of destinations in 10 mentioned categories across East Asia. Each traveler rating is mapped as Very Good (4), Very Good (3), Average (2), Bad (1), and Very Bad (0) and the average rating is used for each category per User. The purpose of the analysis is to group users based on their reviews in various destination categories, so a clustering analysis is carried out using the KMeans and K-Medoids methods on the data so that these two methods are used to compare which clustering results are better.  
 **Skills:** Data Processing, Data Analysis, Clustering Techniques, Data Visualization.  
 **Technology:** Python, matplotlib.pyplot, numpy, pandas, scipy.stats, seaborn.  
