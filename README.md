@@ -10,7 +10,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Cluster Analysis of East Asian Tourism Destination Reviews on TripAdvisor](#Cluster-Analysis-of-East-Asian-Tourism-Destination-Reviews-on-TripAdvisor)
+	+ [Cluster Analysis of East Asian Tourism Destination Reviews on TripAdvisor](#Cluster-Analysis-TripAdvisor)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
