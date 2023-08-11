@@ -11,6 +11,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Cluster Analysis TripAdvisor](#Cluster-Analysis-TripAdvisor)
+	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
