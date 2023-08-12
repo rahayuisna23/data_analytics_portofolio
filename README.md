@@ -10,7 +10,7 @@ Hi, I'm Rahayu! A recent graduate with degree in statistics. Througout my academ
 	+ [Cluster Analysis of East Asian Tourism Destination on TripAdvisor](#Cluster-Analysis-of-East-Asian-Tourism-Destination-on-TripAdvisor)
 	+ [Forecasting the Percentage of Poverty in Purworejo Regency](#Forecasting-the-Percentage-of-Poverty-in-Purworejo-Regency)
 	+ [Statistical Analysis on Factors Influencing Life Expectancy](#Statistical-Analysis-on-Factors-Influencing-Life-Expectancy)
-	+ [Web Scraping for Self-Development Book List from Grobmart Website](#Web-Scraping-for-Self---Development-Book-List-from-Grobmart-Website)
+	+ [Web Scraping for Self Development Book List from Grobmart Website](#Web-Scraping-for-Self-Development-Book-List-from-Grobmart-Website)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, matplotlib.pyplot, numpy, pandas, shap, sklearn.   
 **Results:** result Based on the regression analysis it is found that the random forest model is the best model for predicting life expectancy because it has smaller MSE and MAE values. 
 
-### Web Scraping for Self-Development Book List from Grobmart Website
+### Web Scraping for Self Development Book List from Grobmart Website
 **Code:** [`Web Scraping for Self-Development Book List from Grobmart Website.txt`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/Web%20Scraping%20for%20Self-Development%20Book%20List%20from%20Grobmart%20Website.txt)    
 **Description:** This project involves web scraping Grobmart's website to create a table listing discounted self-development books. The table comprises book titles, original and discounted prices, discount percentage, and links to book descriptions. By automating the data collection process and presenting it in a structured table, the project demonstrates proficiency in web scraping techniques and data organization. The resulting table provides users with a comprehensive overview of discounted self-development books available on Grobmart, contributing to informed reading choices and efficient shopping decisions.    
 **Skills:** web scraping, data processing.    
