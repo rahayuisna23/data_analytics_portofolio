@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Isna! A recent graduate with degree in statistics. Througout my academic journey, I develop a strong passion for data analytics and its applications in several domains. During my time as a statistics student, I embarked on an exciting journey exploring the depths of data analytics. I was introduced to a wide array of statistical concepts and data analytics technique that laid the foundation for my analytical skills. This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+Hi, I'm Rahayu! A recent graduate with degree in statistics. Througout my academic journey, I develop a strong passion for data analytics and its applications in several domains. During my time as a statistics student, I embarked on an exciting journey exploring the depths of data analytics. I was introduced to a wide array of statistical concepts and data analytics technique that laid the foundation for my analytical skills. This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 
 ## Table of contents
 - [About](#about)
@@ -17,36 +17,33 @@ Hi, I'm Isna! A recent graduate with degree in statistics. Througout my academic
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+### Cluster Analysis of East Asian Tourism Destination on TripAdvisor
+**Code:** [`Cluster_Analysis_of_East_Asian_Tourism_Destination_on_TripAdvisor.ipynb`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/Cluster_Analysis_of_East_Asian_Tourism_Destination_on_TripAdvisor.ipynb)    
+**Description:** Data sourced from TripAdvisor.com contains reviews of destinations in 10 mentioned categories across East Asia. Each traveler rating is mapped as Very Good (4), Very Good (3), Average (2), Bad (1), and Very Bad (0) and the average rating is used for each category per User. The purpose of the analysis is to group users based on their reviews in various destination categories, so a clustering analysis is carried out using the KMeans and K-Medoids methods on the data so that these two methods are used to compare which clustering results are better.  
+**Skills:** Data Processing, Data Analysis, Clustering Techniques, Data Visualization.  
+**Technology:** Python, matplotlib.pyplot, numpy, pandas, scipy.stats, seaborn.  
+**Results:** Based on the clustering analysis it is found that the best clustering method used for this dataset is the K-Means Cluster method because it has a higher silhouette value than the K-Medoids method and 2 clusters will be formed because the user has been clustered according to the rating given to the several destinations, the results of this clustering can be used as recommendations to determine suitable destinations for each user to visit so that users can prepare trips to be more effective. 
 
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+### Forecasting the Percentage of Poverty in Purworejo Regency
+**Code:** [`Forecasting the Percentage of Poverty in Purworejo Regency.xlsx`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/Forecasting%20the%20Percentage%20of%20Poverty%20in%20Purworejo%20Regency.xlsx)       
+**Description:** Forecasting the percentage of poverty in Purworejo Regency in 2022 uses three different methods: Moving Average (MA), Double Exponential Smoothing with Holt Two Parameters, and Double Exponential Smoothing with One-Parameter Brown. Evaluation of this forecasting method uses the Root Mean Square Error (RMSE), which measures the amount of error generated by each forecasting method. The forecasting method with the smallest RMSE appears as the optimal choice for predicting the percentage of poverty.   
+**Skills:** Data Visualization, Data Analysis, Forecasting.    
+**Technology:** Microsoft Excel.     
+**Results:** From the results of the analysis carried out, it was found that the forecasting method with the smallest RMSE value is the Double Exponential Smooting Two Parameter Holt method, so that this method is used as a forecast model for the Percentage of Poor Population in Purworejo Regency in 2022. Forecast of the Percentage of Poor Population in Purworejo Regency for 2022 is 11, 9782 percent. Forecasts for the Percentage of Poor People in Purworejo Regency in 2022 show a decrease in the Percentage of Poor People compared to 2021.  
 
-### A Landing Page Design Experiment
-**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
-**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
-**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
-**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
-**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
+### Statistical Analysis on Factors Influencing Life Expectancy
+**Code:** [`Statistical_Analysis_on_Factors_Influencing_Life_Expectancy.ipynb`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/Statistical_Analysis_on_Factors_Influencing_Life_Expectancy.ipynb)      
+**Description:** This project focuses on selecting the optimal method for predicting life expectancy figures across 193 countries globally. Leveraging data from 22 variables encompassing health, economic, and social factors, the analysis employs regression analysis. The two methods employed are Decision Tree and Random Forest.The project's aim is to provide valuable insights to relevant governmental bodies, enabling advancements in the health and social sectors. By identifying influential variables and employing robust prediction methods, the analysis contributes towards fostering prosperous and well-being-oriented societies.     
+**Skills:** Data Processing, Data Analysis, Regression Techniques, Data Visualization.      
+**Technology:** Python, matplotlib.pyplot, numpy, pandas, shap, sklearn.   
+**Results:** result Based on the regression analysis it is found that the random forest model is the best model for predicting life expectancy because it has smaller MSE and MAE values. 
 
-### Online Advertising Campaign Analysis
-**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
-**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)    
-**Description:** My submission to Yandex Advertising Analytics internship program.    
-**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
-**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category.  
+### Web Scraping for Self-Development Book List from Grobmart Website
+**Code:** [`Web Scraping for Self-Development Book List from Grobmart Website.txt`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/Web%20Scraping%20for%20Self-Development%20Book%20List%20from%20Grobmart%20Website.txt)    
+**Description:** This project involves web scraping Grobmart's website to create a table listing discounted self-development books. The table comprises book titles, original and discounted prices, discount percentage, and links to book descriptions. By automating the data collection process and presenting it in a structured table, the project demonstrates proficiency in web scraping techniques and data organization. The resulting table provides users with a comprehensive overview of discounted self-development books available on Grobmart, contributing to informed reading choices and efficient shopping decisions.    
+**Skills:** web scraping, data processing.    
+**Technology:** R programming, rvest, dplyr, Microsoft Excel.     
+**Results:** [`discounted_self_development_book.xlsx`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/discounted_self_development_book.xlsx)   
 
 ## Certificates
 Below is a compilation of sertificates I've earned, highlighting my commitment to continuous learning and skill development in the field of data analytics  :
