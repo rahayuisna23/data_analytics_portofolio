@@ -7,10 +7,10 @@ Hi, I'm Rahayu! A recent graduate with degree in statistics. Througout my academ
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Cluster Analysis of East Asian Tourism Destination on TripAdvisor](#Cluster-Analysis-of-East-Asian-Tourism-Destination-on-TripAdvisor)
-	+ [Forecasting the Percentage of Poverty in Purworejo Regency](#Forecasting-the-Percentage-of-Poverty-in-Purworejo-Regency)
-	+ [Statistical Analysis on Factors Influencing Life Expectancy](#Statistical-Analysis-on-Factors-Influencing-Life-Expectancy)
-	+ [Web Scraping for Self Development Book List from Grobmart Website](#Web-Scraping-for-Self-Development-Book-List-from-Grobmart-Website)
+	+ [Cluster Analysis of East Asian Tourism Destination on TripAdvisor](#cluster-analysis-of-east-asian-tourism-destination-on-tripadvisor)
+	+ [Forecasting the Percentage of Poverty in Purworejo Regency](#forecasting-the-percentage-of-poverty-in-purworejo-regency)
+	+ [Statistical Analysis on Factors Influencing Life Expectancy](#statistical-analysis-on-factors-influencing-life-expectancy)
+	+ [Web Scraping for Self Development Book List from Grobmart Website](#web-scraping-for-self-development-book-list-from-grobmart-website)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
