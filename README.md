@@ -47,14 +47,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Certificates
 Below is a compilation of sertificates I've earned, highlighting my commitment to continuous learning and skill development in the field of data analytics  :
-- [R Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTR1SJIBGF) (Jul 2021) (DQLAB)
-- [Data Visualization in Data Science using R](https://academy.dqlab.id/Certificate_check/result/DQLABDTVISANSLDP) (Jul 2021) (DQLAB)
-- [Data Preparation in Data Science using R](https://academy.dqlab.id/Certificate_check/result/DQLABDTWR1EHWIGS) (Jul 2021) (DQLAB)
-- [Statistics using R for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTS1ISWUKT) (Jul 2021) (DQLAB)
-- [Python Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1DVDGMV) (Jul 2021) (DQLAB)
-- [Data Wrangling Python](https://academy.dqlab.id/Certificate_check/result/DQLABDTWP1FIOPCB) (Jul 2021) (DQLAB)
-- [Introduction to Data Science with R](https://academy.dqlab.id/Certificate_check/result/DQLABBGINRQTLIJL) (Jul 2021) (DQLAB)
-- [Introduction to Data Science with Python](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1TEIILH) (Jul 2021) (DQLAB)
+- [R Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTR1SJIBGF) (DQLAB)
+- [Data Visualization in Data Science using R](https://academy.dqlab.id/Certificate_check/result/DQLABDTVISANSLDP) (DQLAB)
+- [Data Preparation in Data Science using R](https://academy.dqlab.id/Certificate_check/result/DQLABDTWR1EHWIGS) (DQLAB)
+- [Statistics using R for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTS1ISWUKT) (DQLAB)
+- [Python Fundamental for Data Science](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1DVDGMV) (DQLAB)
+- [Data Wrangling Python](https://academy.dqlab.id/Certificate_check/result/DQLABDTWP1FIOPCB) (DQLAB)
+- [Introduction to Data Science with R](https://academy.dqlab.id/Certificate_check/result/DQLABBGINRQTLIJL) (DQLAB)
+- [Introduction to Data Science with Python](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1TEIILH) (DQLAB)
 
 ## Contacts
 - E-mail: rahayusnn@gmail.com
