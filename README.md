@@ -11,6 +11,7 @@ Hi, I'm Rahayu! A recent graduate with degree in statistics. Througout my academ
 	+ [Forecasting the Percentage of Poverty in Purworejo Regency](#forecasting-the-percentage-of-poverty-in-purworejo-regency)
 	+ [Statistical Analysis on Factors Influencing Life Expectancy](#statistical-analysis-on-factors-influencing-life-expectancy)
 	+ [Web Scraping for Self Development Book List from Grobmart Website](#web-scraping-for-self-development-book-list-from-grobmart-website)
+	+ [Online Clothing Sales Performance on Shopee and Lazada: Dashboard Report](#online-clothing-sales-performance-on-shopee-and-lazada-dashboard-report)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -44,6 +45,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** web scraping, data processing.    
 **Technology:** R programming, rvest, dplyr, Microsoft Excel.     
 **Results:** [`discounted_self_development_book.xlsx`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/230298a56ef5cfdaabf0a790c8cfce440cbd12b7/discounted_self_development_book.xlsx)   
+
+### Online Clothing Sales Performance on Shopee and Lazada: Dashboard Report
+**Code:** [`Online Clothing Sales Analysis.xlsb`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/main/Online%20Clothing%20Sales%20Analysis.xlsb)    
+**Description:** This project focuses on analyzing the sales performance of PT X, an online clothing retailer, on the Shopee and Lazada platforms during the month of January. The objective is to create a comprehensive dashboard report that provides insights into key metrics, including store revenue, Gross Merchandise Value (GMV), Net Merchandise Value (NMV), and order statistics. The analysis aims to uncover patterns, trends, and actionable recommendations to enhance the effectiveness of online sales strategies.    
+**Skills:** Data Processing, Data Analysis, Dashboard Design.    
+**Technology:** Microsoft Excel.     
+**Results:** [`Online Clothing Sales Analysis.xlsb`](https://github.com/rahayuisna23/data_analytics_portofolio/blob/b80ca6a78e2af961f2bc3aca5daf58b631708726/Online%20Clothing%20Sales%20Analysis.xlsb)  
 
 ## Certificates
 Below is a compilation of sertificates I've earned, highlighting my commitment to continuous learning and skill development in the field of data analytics  :
